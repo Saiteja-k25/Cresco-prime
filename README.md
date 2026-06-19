@@ -4,7 +4,7 @@
 
 A corporate prop trading firm platform built for Cresco Prime, Hyderabad — providing institutional trading terminals backed by organizational capital and structured trading education.
 
-**Live:** (https://cresco-prime.vercel.app)
+**Live:** (https://cresco-prime-git-main-projectcrescos-projects.vercel.app/)
 
 ---
 
